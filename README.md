@@ -4,21 +4,16 @@ Line-Art-Exercises-Template
 
 # Table of Content
 
-
-
-
-# 01 - Naming
-
-## Repo Naming
-
-Exercise Repos will be created on a monthly basis with the following format:
-
-#year-LA-#Month
+![00 - Folder Structure]()
+![01 - Naming]()
+![02 - Exercises]()
+![03 - Sources]()
+![04 - Acknowledgements]()
 
 
 
 
-## Folder Structure 
+# 00 - Folder Structure 
 
 ```
 ├── Repo-Name
@@ -61,9 +56,13 @@ Exercise Repos will be created on a monthly basis with the following format:
 │   └── on-simplicity-in-technology.md
 ```
 
+# 01 - Naming
 
+## Repo Naming
 
+Exercise Repos will be created on a monthly basis with the following format:
 
+#year-LA-#Month
 
 ## File Naming
 
@@ -109,7 +108,7 @@ Drawing on the right side of the brain
 
 ## Regarding Markdown Syntax
 
-![StackOverFlow question regarding representing Folder structures in markdown](https://stackoverflow.com/questions/19699059/representing-directory-file-structure-in-markdown-syntax)
+![StackOverFlow question Folder structures in markdown](https://stackoverflow.com/questions/19699059/representing-directory-file-structure-in-markdown-syntax)
 
 ![jekyllrb](http://jekyllrb.com/docs/structure/)
 
