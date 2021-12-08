@@ -18,7 +18,52 @@ Exercise Repos will be created on a monthly basis with the following format:
 
 
 
-## Folder Naming
+## Folder Structure 
+
+```
+├── Repo-Name
+|   |
+│   ├── DrawABox
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   └── header.html
+|   |
+│   ├── DrawingOnTheRightSide
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   └── header.html
+|   |
+│   ├── Geometry
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   └── header.html
+|   |
+│   ├── Anatomy
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   └── header.html
+|   |
+│   ├── Texture
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   └── header.html
+|   |
+│   └── on-simplicity-in-technology.md
+```
+
+
+
+
 
 ## File Naming
 
