@@ -8,7 +8,7 @@ Line-Art-Exercises-Template
 [01 - Naming](#01---Naming) </br>
 [02 - Exercises](#02---Exercises) </br>
 [03 - Sources](#03---sources) </br>
-[04 - Acknowledgements](04---Acknowledgements) </br>
+[04 - Acknowledgements](04---Acknowledgements)
 
 
 
