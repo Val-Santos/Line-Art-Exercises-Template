@@ -23,6 +23,8 @@ Exercise Repos will be created on a monthly basis with the following format:
 ## File Naming
 
 
+<p align="right"><a href="#top">Back to top</a></p>
+
 
 # 02 - Exercises List (Progressive)
 
@@ -38,6 +40,7 @@ size:
 dpi:
 lowest possible
 
+<p align="right"><a href="#top">Back to top</a></p>
 
 # 03 - Sources
 
@@ -52,4 +55,4 @@ Drawing on the right side of the brain
 ## Websites
 ![DrawABox](https://drawabox.com)
 
-<p><a href="#top">Back to top</a></p>
+<p align="right"><a href="#top">Back to top</a></p>
