@@ -4,11 +4,11 @@ Line-Art-Exercises-Template
 
 # Table of Content
 
-![00 - Folder Structure](#00-Folder Structure)
-![01 - Naming](#01---naming)
-![02 - Exercises](#01---naming)
-![03 - Sources](#03---sources)
-![04 - Acknowledgements](04---acknowledgements)
+[00 - Folder Structure](#00-Folder Structure)
+[01 - Naming](#01---naming)
+[02 - Exercises](#01---naming)
+[03 - Sources](#03---sources)
+[04 - Acknowledgements](04---acknowledgements)
 
 
 
