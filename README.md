@@ -19,18 +19,61 @@ Line-Art-Exercises-Template
 ├── Repo-Name
 |   |
 │   ├── DrawABox
-│   │   ├── footer.html
-│   │   ├── footer.html
-│   │   ├── footer.html
-│   │   ├── footer.html
-│   │   └── header.html
+│   │   ├── Challenge-Box
+│   │   ├── Challenge-Cylinder
+│   │   ├── Challenge-Texture
+│   │   ├── Challenge-Treasure
+│   │   ├── Challenge-Wheel
+│   │   ├── Lesson-01
+│   │   |   ├── footer.html
+│   │   |   ├── footer.html
+│   │   |   └── header.html
+│   │   |   
+│   │   ├── Lesson-02
+│   │   |   ├── footer.html
+│   │   |   ├── footer.html
+│   │   |   └── header.html
+│   │   |   
+│   │   ├── Lesson-03
+│   │   |   ├── footer.html
+│   │   |   ├── footer.html
+│   │   |   └── header.html
+│   │   |   
+│   │   ├── Lesson-04
+│   │   |   ├── footer.html
+│   │   |   ├── footer.html
+│   │   |   └── header.html
+│   │   |   
+│   │   ├── Lesson-05
+│   │   |   ├── footer.html
+│   │   |   ├── footer.html
+│   │   |   └── header.html
+│   │   |   
+│   │   ├── Lesson-06
+│   │   |   ├── footer.html
+│   │   |   ├── footer.html
+│   │   |   └── header.html
+│   │   |   
+│   │   └── lesson-07
+│   │       ├── footer.html
+│   │       ├── footer.html
+│   │       └── header.html
 |   |
 │   ├── DrawingOnTheRightSide
 │   │   ├── footer.html
+│   │   |   ├── footer.html
+│   │   |   ├── footer.html
+│   │   |   └── header.html
+│   │   |   
 │   │   ├── footer.html
 │   │   ├── footer.html
 │   │   ├── footer.html
 │   │   └── header.html
+|   │       ├── footer.html
+│   │       ├── footer.html
+│   │       ├── footer.html
+│   │       ├── footer.html
+│   │       └── header.html
 |   |
 │   ├── Geometry
 │   │   ├── footer.html
@@ -38,6 +81,11 @@ Line-Art-Exercises-Template
 │   │   ├── footer.html
 │   │   ├── footer.html
 │   │   └── header.html
+|   │       ├── footer.html
+│   │       ├── footer.html
+│   │       ├── footer.html
+│   │       ├── footer.html
+│   │       └── header.html
 |   |
 │   ├── Anatomy
 │   │   ├── footer.html
