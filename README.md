@@ -108,6 +108,8 @@ Drawing on the right side of the brain
 
 ## Regarding Markdown Syntax
 
+![MarkdownGuide.org](https://www.markdownguide.org/)
+
 ![StackOverFlow question Folder structures in markdown](https://stackoverflow.com/questions/19699059/representing-directory-file-structure-in-markdown-syntax)
 
 ![jekyllrb](http://jekyllrb.com/docs/structure/)
