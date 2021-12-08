@@ -4,11 +4,11 @@ Line-Art-Exercises-Template
 
 # Table of Content
 
-![00 - Folder Structure](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#00---folder-structure)
-![01 - Naming](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#01---naming)
-![02 - Exercises](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#01---naming)
-![03 - Sources](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#03---sources)
-![04 - Acknowledgements](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#03---acknowledgements)
+![00 - Folder Structure](#00---folder-structure)
+![01 - Naming](#01---naming)
+![02 - Exercises](#01---naming)
+![03 - Sources](#03---sources)
+![04 - Acknowledgements](04---acknowledgements)
 
 
 
