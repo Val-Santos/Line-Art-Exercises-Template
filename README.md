@@ -101,3 +101,17 @@ Drawing on the right side of the brain
 ![DrawABox](https://drawabox.com)
 
 <p align="right"><a href="#top">Back to top</a></p>
+
+# 03 - Acknowledgements
+
+## Regarding Art Repos
+
+
+## Regarding Markdown Syntax
+
+![StackOverFlow question regarding representing Folder structures in markdown](https://stackoverflow.com/questions/19699059/representing-directory-file-structure-in-markdown-syntax)
+
+![jekyllrb](http://jekyllrb.com/docs/structure/)
+
+
+<p align="right"><a href="#top">Back to top</a></p>
