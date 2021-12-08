@@ -30,8 +30,15 @@ Exercise Repos will be created on a monthly basis with the following format:
 
 ## Exercises Templates
 
-## Exercises file specs per drawing software
+## Exercises file specs
 
+size:
+500 x 500 
+
+dpi:
+lowest possible
 
 
 # 03 - Sources
+
+![DrawABox](https://drawabox.com)
