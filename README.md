@@ -4,16 +4,19 @@ Line-Art-Exercises-Template
 
 # Table of Content
 
-[00 - Folder Structure](#00-Folder Structure)
-[01 - Naming](#01---naming)
-[02 - Exercises](#01---naming)
+[00 - Folder Structure](#00---Folder-Structure)
+[01 - Naming](#01---Naming)
+
+[02 - Exercises](#02---Exercises)
+
 [03 - Sources](#03---sources)
-[04 - Acknowledgements](04---acknowledgements)
+
+[04 - Acknowledgements](04---cknowledgements)
 
 
 
 
-# 00-Folder-Structure 
+# 00 - Folder Structure 
 
 ```
 ├── Repo-Name
