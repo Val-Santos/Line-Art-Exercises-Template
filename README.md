@@ -117,21 +117,56 @@ Line-Art-Exercises-Template
 |   │    
 |   │    
 │   ├── DrawingOnTheRightSide
-│   │   ├── footer.html
-│   │   |   ├── footer.html
-│   │   |   ├── footer.html
-│   │   |   └── header.html
-│   │   |   
-│   │   ├── footer.html
-│   │   ├── footer.html
-│   │   ├── footer.html
-│   │   └── header.html
-|   │       ├── footer.html
-│   │       ├── footer.html
-│   │       ├── footer.html
-│   │       ├── footer.html
-│   │       └── header.html
-|   |
+│   │   ├── TextBook
+|   │   │   ├── Pre-Exercises
+│   |   │   |   ├── Lines
+│   |   |   │   |   └── Readme.md
+|   │   |   │   |   
+│   │   |   |   ├── Ellipses
+│   |   |   │   |   └── Readme.md
+|   │   |   │   |   
+│   │   |   |   └── Boxes
+│   |   |   │       └── Readme.md
+|   │   |   │   
+|   │   |   │ 
+|   │   |   │   
+│   │   |   └── Crossing-Over
+│   │   |       ├── Faces&Vases
+│   |   |       |   └── Readme.md
+|   |   │       |   
+│   |   │       ├── UpsideDownDrawings
+│   |   |       |   └── Readme.md
+|   |   │       |   
+│   |   │       └── Construction
+|   │   |           └── Readme.md
+|   │   │ 
+|   │   │   
+|   │   │   
+│   │   └── WorkBook
+|   │   │   ├── Lesson-01
+│   |   │   |   ├── Lines
+│   |   |   │   |   └── Readme.md
+|   │   |   │   |   
+│   │   |   |   ├── Ellipses
+│   |   |   │   |   └── Readme.md
+|   │   |   │   |   
+│   │   |   |   └── Boxes
+│   |   |   │       └── Readme.md
+|   │   |   │   
+|   │   |   │ 
+|   │   |   │   
+│   │   |   └── lesson-07
+│   │   |       ├── Contour-Lines
+│   |   |       |   └── Readme.md
+|   |   │       |   
+│   |   │       ├── Texture
+│   |   |       |   └── Readme.md
+|   |   │       |   
+│   |   │       └── Construction
+|   │   |           └── Readme.md
+|   │   │ 
+|   │   │   
+|   │   │   
 │   ├── Geometry
 │   │   ├── footer.html
 │   │   ├── footer.html
@@ -158,7 +193,8 @@ Line-Art-Exercises-Template
 │   │   ├── footer.html
 │   │   └── header.html
 |   |
-│   └── Line-Art-Best-Practices.md
+│   ├── Drawing-R-Side-Best-Ptractices.md
+│   ├── Line-Art-Best-Practices.md
 │   └── Line-Art-Resources.md
 |
 ```
