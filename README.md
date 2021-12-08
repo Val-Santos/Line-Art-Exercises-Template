@@ -11,7 +11,11 @@ Line-Art-Exercises-Template
 
 ## Repo Naming
 
-Exercise Repos will be created on a monthly basis
+Exercise Repos will be created on a monthly basis with the following format:
+
+#year-LA-#Month
+
+
 
 
 ## Folder Naming
