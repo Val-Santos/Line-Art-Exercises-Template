@@ -4,11 +4,11 @@ Line-Art-Exercises-Template
 
 # Table of Content
 
-![00 - Folder Structure]()
-![01 - Naming]()
-![02 - Exercises]()
-![03 - Sources]()
-![04 - Acknowledgements]()
+![00 - Folder Structure](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#00---folder-structure)
+![01 - Naming](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#01---naming)
+![02 - Exercises](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#01---naming)
+![03 - Sources](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#03---sources)
+![04 - Acknowledgements](https://github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#03---acknowledgements)
 
 
 
@@ -70,7 +70,7 @@ Exercise Repos will be created on a monthly basis with the following format:
 <p align="right"><a href="#top">Back to top</a></p>
 
 
-# 02 - Exercises List (Progressive)
+# 02 - Exercises
 
 ## Exercises List (Progressive)
 
@@ -101,7 +101,7 @@ Drawing on the right side of the brain
 
 <p align="right"><a href="#top">Back to top</a></p>
 
-# 03 - Acknowledgements
+# 04 - Acknowledgements
 
 ## Regarding Art Repos
 
