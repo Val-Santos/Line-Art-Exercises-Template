@@ -13,7 +13,7 @@ Line-Art-Exercises-Template
 
 
 
-# 00-Folder Structure 
+# 00-Folder-Structure 
 
 ```
 ├── Repo-Name
