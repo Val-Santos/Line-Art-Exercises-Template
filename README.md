@@ -4,7 +4,7 @@ Line-Art-Exercises-Template
 
 # Table of Content
 
-![00 - Folder Structure](github.com/Val-Santos/Line-Art-Exercises-Template/blob/main/README.md#00---folder-structure)
+![00 - Folder Structure](#00-Folder Structure)
 ![01 - Naming](#01---naming)
 ![02 - Exercises](#01---naming)
 ![03 - Sources](#03---sources)
@@ -13,7 +13,7 @@ Line-Art-Exercises-Template
 
 
 
-# 00 - Folder Structure 
+# 00-Folder Structure 
 
 ```
 ├── Repo-Name
