@@ -20,45 +20,102 @@ Line-Art-Exercises-Template
 |   |
 │   ├── DrawABox
 │   │   ├── Challenge-Box
+│   │   |   └── Readme.md
 │   │   ├── Challenge-Cylinder
+│   │   |   └── Readme.md
 │   │   ├── Challenge-Texture
+│   │   |   └── Readme.md
 │   │   ├── Challenge-Treasure
+│   │   |   └── Readme.md
 │   │   ├── Challenge-Wheel
+│   │   |   └── Readme.md
+│   │   |
+│   │   |
+│   │   |
 │   │   ├── Lesson-01
-│   │   |   ├── footer.html
-│   │   |   ├── footer.html
-│   │   |   └── header.html
-│   │   |   
+│   │   |   ├── Lines
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Ellipses
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Boxes
+│   |   │       └── Readme.md
+|   │   │ 
+|   │   │ 
+|   │   │ 
 │   │   ├── Lesson-02
-│   │   |   ├── footer.html
-│   │   |   ├── footer.html
-│   │   |   └── header.html
-│   │   |   
+│   │   |   ├── Contour-Lines
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Texture
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Construction
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │ 
 │   │   ├── Lesson-03
-│   │   |   ├── footer.html
-│   │   |   ├── footer.html
-│   │   |   └── header.html
-│   │   |   
+│   │   |   ├── Contour-Lines
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Texture
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Construction
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │  
 │   │   ├── Lesson-04
-│   │   |   ├── footer.html
-│   │   |   ├── footer.html
-│   │   |   └── header.html
-│   │   |   
+│   │   |   ├── Contour-Lines
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Texture
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Construction
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │  
 │   │   ├── Lesson-05
-│   │   |   ├── footer.html
-│   │   |   ├── footer.html
-│   │   |   └── header.html
-│   │   |   
+│   │   |   ├── Contour-Lines
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Texture
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Construction
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │    
 │   │   ├── Lesson-06
-│   │   |   ├── footer.html
-│   │   |   ├── footer.html
-│   │   |   └── header.html
-│   │   |   
+│   │   |   ├── Contour-Lines
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Texture
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Construction
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │   
 │   │   └── lesson-07
-│   │       ├── footer.html
-│   │       ├── footer.html
-│   │       └── header.html
-|   |
+│   │       ├── Contour-Lines
+│   |       |   └── Readme.md
+|   │       |   
+│   │       ├── Texture
+│   |       |   └── Readme.md
+|   │       |   
+│   │       └── Construction
+│   |           └── Readme.md
+|   │      
+|   │    
+|   │    
 │   ├── DrawingOnTheRightSide
 │   │   ├── footer.html
 │   │   |   ├── footer.html
@@ -101,7 +158,9 @@ Line-Art-Exercises-Template
 │   │   ├── footer.html
 │   │   └── header.html
 |   |
-│   └── on-simplicity-in-technology.md
+│   └── Line-Art-Best-Practices.md
+│   └── Line-Art-Resources.md
+|
 ```
 
 # 01 - Naming
