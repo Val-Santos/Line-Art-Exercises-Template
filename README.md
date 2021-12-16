@@ -241,7 +241,7 @@ Line-Art-Exercises-Template
 ```
 
 </span>
-   
+   </details>
 <details>
   <summary>Broken up by branch</summary>
   <details>
