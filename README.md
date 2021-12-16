@@ -238,8 +238,17 @@ Line-Art-Exercises-Template
 |
 ```
 </details>
+ 
+  ## A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
   
-  
+```python
+def func():
+    return 'hello, world!'
+```
+</details>
+
 <details>
   <summary>Broken up by branch</summary>
   <details>
