@@ -29,10 +29,8 @@ Line-Art-Exercises-Template
 
 # 00 - Folder Structure 
 <details>
- <summary> Entire Repo Tree <summary>
-  
-<span> 
-```
+ <summary> Entire Repo Tree <summary> 
+```markdown
 ├── Repo-Name
 |   |
 │   ├── DrawABox
@@ -239,9 +237,9 @@ Line-Art-Exercises-Template
 │   └── Line-Art-Resources.md
 |
 ```
-
-</span>
-   </details>
+</details>
+  
+  
 <details>
   <summary>Broken up by branch</summary>
   <details>
