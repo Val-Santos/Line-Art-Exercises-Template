@@ -28,7 +28,9 @@ Line-Art-Exercises-Template
 
 
 # 00 - Folder Structure 
-
+<details>
+ <summary> Entire Repo Tree <summary>
+ 
 ```
 ├── Repo-Name
 |   |
@@ -236,7 +238,18 @@ Line-Art-Exercises-Template
 │   └── Line-Art-Resources.md
 |
 ```
-
+  
+</details>
+   
+<details>
+  <summary>Broken up by branch</summary>
+  <details>
+  <summary>DrawAbox</summary>
+  </details>
+  <details>
+  <summary>RightSideOfTheBrain</summary>
+  </details>
+</details>
 # 01 - Naming
 
 ## Repo Naming
