@@ -308,5 +308,6 @@ Drawing on the right side of the brain
 
 ![jekyllrb](http://jekyllrb.com/docs/structure/)
 
+![details tag and Markdown git article](https://github.blog/2014-04-28-task-lists-in-all-markdown-documents/)
 
 <p align="right"><a href="#top">Back to top</a></p>
