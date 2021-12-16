@@ -57,25 +57,40 @@ Line-Art-Exercises-Template
 |   │   │ 
 |   │   │ 
 │   │   ├── Lesson-03
-│   │   |   ├── Contour-Lines
+│   │   |   ├── Organic-Arrows
 │   |   │   |   └── Readme.md
 |   │   │   |   
-│   │   |   ├── Texture
+│   │   |   ├── Leaves
+│   |   │   |   └── Readme.md
+|   │   │   | 
+│   │   |   ├── Branches
+│   |   │   |   └── Readme.md
+|   │   │   |  
+│   │   |   ├── Daisies
 │   |   │   |   └── Readme.md
 |   │   │   |   
-│   │   |   └── Construction
+│   │   |   ├── Mushrooms
+│   |   │   |   └── Readme.md
+|   │   │   | 
+│   │   |   ├── Hibiscus
+│   |   │   |   └── Readme.md
+|   │   │   |  
+│   │   |   └── Other-Plants
 │   |   │       └── Readme.md
 |   │   │   
 |   │   │ 
 |   │   │  
 │   │   ├── Lesson-04
-│   │   |   ├── Contour-Lines
+│   │   |   ├── Organic-forms
 │   |   │   |   └── Readme.md
 |   │   │   |   
-│   │   |   ├── Texture
+│   │   |   ├── Insects
 │   |   │   |   └── Readme.md
 |   │   │   |   
-│   │   |   └── Construction
+│   │   |   ├── Birds
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Mammals
 │   |   │       └── Readme.md
 |   │   │   
 |   │   │ 
@@ -93,25 +108,34 @@ Line-Art-Exercises-Template
 |   │   │ 
 |   │   │    
 │   │   ├── Lesson-06
-│   │   |   ├── Contour-Lines
+│   │   |   ├── Form-Intersections
 │   |   │   |   └── Readme.md
 |   │   │   |   
-│   │   |   ├── Texture
+│   │   |   ├── Everyday-Synthetic-Objects
 │   |   │   |   └── Readme.md
 |   │   │   |   
-│   │   |   └── Construction
+│   │   |   └── Large-Machinery
 │   |   │       └── Readme.md
 |   │   │   
 |   │   │ 
 |   │   │   
 │   │   └── lesson-07
-│   │       ├── Contour-Lines
+│   │       ├── Form-Intersections
 │   |       |   └── Readme.md
 |   │       |   
-│   │       ├── Texture
+│   │       ├── Cylinder-in-Boxes
 │   |       |   └── Readme.md
 |   │       |   
-│   │       └── Construction
+│   │       ├── Elipses-in-Planes
+│   |       |   └── Readme.md
+|   │       |   
+│   │       ├── Motor-Vehicles
+│   |       |   └── Readme.md
+|   │       |   
+│   │       ├── Boats
+│   |       |   └── Readme.md
+|   │       | 
+│   │       └── Aircrafts
 │   |           └── Readme.md
 |   │      
 |   │    
