@@ -10,6 +10,20 @@ Line-Art-Exercises-Template
 [03 - Sources](#03---sources) </br>
 [04 - Acknowledgements](#04---Acknowledgements)
 
+## To do list
+
+
+- [x] DrawABox
+- [ ] Drawing on the right side
+- [ ] Geometry
+- [ ] Anatomy
+- [ ] Textures
+- [ ] Line marking
+- [ ] DrawABox Text Docs
+- [ ] Geometry Text Docs
+- [ ] Anatomy Text Docs
+- [ ] Textures Text Docs
+- [ ] Line marking Text Docs
 
 
 
