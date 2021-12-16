@@ -249,6 +249,7 @@ Line-Art-Exercises-Template
   <summary>RightSideOfTheBrain</summary>
   </details>
 </details>
+
 # 01 - Naming
 
 ## Repo Naming
