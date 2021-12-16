@@ -31,7 +31,7 @@ Line-Art-Exercises-Template
 <details>
  <summary> Entire Repo Tree <summary>
   
-<p> 
+<span> 
 ```
 ├── Repo-Name
 |   |
@@ -240,7 +240,7 @@ Line-Art-Exercises-Template
 |
 ```
 
-</p>
+</span>
    
 <details>
   <summary>Broken up by branch</summary>
