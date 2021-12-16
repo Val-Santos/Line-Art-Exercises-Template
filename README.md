@@ -242,10 +242,8 @@ Line-Art-Exercises-Template
 <details>
   <summary>Click to expand!</summary>
   
-```python
-def func():
-    return 'hello, world!'
- ├── Repo-Name
+```javascript
+├── Repo-Name
 |   |
 │   ├── DrawABox
 │   │   ├── Challenge-Box
