@@ -30,7 +30,8 @@ Line-Art-Exercises-Template
 # 00 - Folder Structure 
 <details>
  <summary> Entire Repo Tree <summary>
- 
+  
+<p> 
 ```
 ├── Repo-Name
 |   |
@@ -238,8 +239,8 @@ Line-Art-Exercises-Template
 │   └── Line-Art-Resources.md
 |
 ```
-  
-</details>
+
+</p>
    
 <details>
   <summary>Broken up by branch</summary>
