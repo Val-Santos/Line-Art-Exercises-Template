@@ -29,8 +29,7 @@ Line-Art-Exercises-Template
 
 # 00 - Folder Structure 
 <details>
- <summary> Entire Repo Tree <summary> 
-```markdown
+```javascript
 ├── Repo-Name
 |   |
 │   ├── DrawABox
@@ -246,6 +245,211 @@ Line-Art-Exercises-Template
 ```python
 def func():
     return 'hello, world!'
+ ├── Repo-Name
+|   |
+│   ├── DrawABox
+│   │   ├── Challenge-Box
+│   │   |   └── Readme.md
+│   │   ├── Challenge-Cylinder
+│   │   |   └── Readme.md
+│   │   ├── Challenge-Texture
+│   │   |   └── Readme.md
+│   │   ├── Challenge-Treasure
+│   │   |   └── Readme.md
+│   │   ├── Challenge-Wheel
+│   │   |   └── Readme.md
+│   │   |
+│   │   |
+│   │   |
+│   │   ├── Lesson-01
+│   │   |   ├── Lines
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Ellipses
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Boxes
+│   |   │       └── Readme.md
+|   │   │ 
+|   │   │ 
+|   │   │ 
+│   │   ├── Lesson-02
+│   │   |   ├── Contour-Lines
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Texture
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Construction
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │ 
+│   │   ├── Lesson-03
+│   │   |   ├── Organic-Arrows
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Leaves
+│   |   │   |   └── Readme.md
+|   │   │   | 
+│   │   |   ├── Branches
+│   |   │   |   └── Readme.md
+|   │   │   |  
+│   │   |   ├── Daisies
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Mushrooms
+│   |   │   |   └── Readme.md
+|   │   │   | 
+│   │   |   ├── Hibiscus
+│   |   │   |   └── Readme.md
+|   │   │   |  
+│   │   |   └── Other-Plants
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │  
+│   │   ├── Lesson-04
+│   │   |   ├── Organic-forms
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Insects
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Birds
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Mammals
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │  
+│   │   ├── Lesson-05
+│   │   |   ├── Contour-Lines
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Texture
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Construction
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │    
+│   │   ├── Lesson-06
+│   │   |   ├── Form-Intersections
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   ├── Everyday-Synthetic-Objects
+│   |   │   |   └── Readme.md
+|   │   │   |   
+│   │   |   └── Large-Machinery
+│   |   │       └── Readme.md
+|   │   │   
+|   │   │ 
+|   │   │   
+│   │   └── lesson-07
+│   │       ├── Form-Intersections
+│   |       |   └── Readme.md
+|   │       |   
+│   │       ├── Cylinder-in-Boxes
+│   |       |   └── Readme.md
+|   │       |   
+│   │       ├── Elipses-in-Planes
+│   |       |   └── Readme.md
+|   │       |   
+│   │       ├── Motor-Vehicles
+│   |       |   └── Readme.md
+|   │       |   
+│   │       ├── Boats
+│   |       |   └── Readme.md
+|   │       | 
+│   │       └── Aircrafts
+│   |           └── Readme.md
+|   │      
+|   │    
+|   │    
+│   ├── DrawingOnTheRightSide
+│   │   ├── TextBook
+|   │   │   ├── Pre-Exercises
+│   |   │   |   ├── Lines
+│   |   |   │   |   └── Readme.md
+|   │   |   │   |   
+│   │   |   |   ├── Ellipses
+│   |   |   │   |   └── Readme.md
+|   │   |   │   |   
+│   │   |   |   └── Boxes
+│   |   |   │       └── Readme.md
+|   │   |   │   
+|   │   |   │ 
+|   │   |   │   
+│   │   |   └── Crossing-Over
+│   │   |       ├── Faces&Vases
+│   |   |       |   └── Readme.md
+|   |   │       |   
+│   |   │       ├── UpsideDownDrawings
+│   |   |       |   └── Readme.md
+|   |   │       |   
+│   |   │       └── Construction
+|   │   |           └── Readme.md
+|   │   │ 
+|   │   │   
+|   │   │   
+│   │   └── WorkBook
+|   │   │   ├── Lesson-01
+│   |   │   |   ├── Lines
+│   |   |   │   |   └── Readme.md
+|   │   |   │   |   
+│   │   |   |   ├── Ellipses
+│   |   |   │   |   └── Readme.md
+|   │   |   │   |   
+│   │   |   |   └── Boxes
+│   |   |   │       └── Readme.md
+|   │   |   │   
+|   │   |   │ 
+|   │   |   │   
+│   │   |   └── lesson-07
+│   │   |       ├── Contour-Lines
+│   |   |       |   └── Readme.md
+|   |   │       |   
+│   |   │       ├── Texture
+│   |   |       |   └── Readme.md
+|   |   │       |   
+│   |   │       └── Construction
+|   │   |           └── Readme.md
+|   │   │ 
+|   │   │   
+|   │   │   
+│   ├── Geometry
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   └── header.html
+|   │       ├── footer.html
+│   │       ├── footer.html
+│   │       ├── footer.html
+│   │       ├── footer.html
+│   │       └── header.html
+|   |
+│   ├── Anatomy
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   └── header.html
+|   |
+│   ├── Texture
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   ├── footer.html
+│   │   └── header.html
+|   |
+│   ├── Drawing-R-Side-Best-Ptractices.md
+│   ├── Line-Art-Best-Practices.md
+│   └── Line-Art-Resources.md
+|
 ```
 </details>
 
